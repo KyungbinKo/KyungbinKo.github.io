@@ -3,24 +3,7 @@ layout: single
 title: "첫 블로그 포스팅입니다."
 categories: coding
 tags: [python, blog, jekyll]
-toc: true
-author_profile: false
-sidebar:
-    nav: "docs"
-search: true
 ---
-**[공지사항]** [지킬 블로그 신규 업데이트 안내 드립니다.](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/#notices)
-{: .notice--info}
-
-<div class="notice--success">
-<h4>공지사항입니다.</h4>
-<ul>
-    <li>공지사항 순서 1</li>
-    <li>공지사항 순서 2</li>
-    <li>공지사항 순서 3</li>
-</ul>
-</div>
-
 [Git](https://github.com/KyungbinKo?tab=repositories){: .btn .btn--danger}
 
 {% include video id="q0P3TSoVNDM" provider="youtube" %}
@@ -46,4 +29,16 @@ while True:
         print("Too high! Try again.")
 ```
 
-![Koala](../../assets/images/Koala_Logo.png)
+![Koala]({{site.url}}/assets/images/Koala_Logo.png)
+
+**[공지사항]** [지킬 블로그 신규 업데이트 안내 드립니다.](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/#notices)
+{: .notice--info}
+
+<div class="notice--success">
+<h4>공지사항입니다.</h4>
+<ul>
+    <li>공지사항 순서 1</li>
+    <li>공지사항 순서 2</li>
+    <li>공지사항 순서 3</li>
+</ul>
+</div>
