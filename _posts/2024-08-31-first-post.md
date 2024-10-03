@@ -31,7 +31,15 @@ while True:
         print("Too high! Try again.")
 ```
 
-![Koala]({{site.url}}/assets/images/Koala_Logo.png)
+### Latex 수식 업데이트
+The well know Pythagorean theorem $\(x^2 + y^2 = z^2\)$ was proved to be invalid for other exponents.
+Meaning the next equation has no  integer solutions:
+
+$\[ x^n + y^n = z^n \]$
+
+$y = f(x)^2$
+
+![Koala]({{site.url}}/assets/images/Koala_Logo.png){: .img-width-half .align-center }
 
 **[공지사항]** [지킬 블로그 신규 업데이트 안내 드립니다.](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/#notices)
 {: .notice--info}

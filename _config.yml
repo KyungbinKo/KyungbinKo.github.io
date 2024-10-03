@@ -322,5 +322,6 @@ defaults:
       sidebar:
           nav: "docs"
       search: true
+      use_math: true
 
 date_format: "%Y-%m-%d"
