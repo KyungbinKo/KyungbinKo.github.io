@@ -1,8 +1,10 @@
 ---
 layout: single
 title: "첫 블로그 포스팅입니다."
-categories: coding
+categories: 코딩
 tags: [python, blog, jekyll]
+redirect_from:
+    - /coding/first-post
 ---
 [Git](https://github.com/KyungbinKo?tab=repositories){: .btn .btn--danger}
 
@@ -25,7 +27,7 @@ while True:
         break
     elif guess < secret_number:
         print("Too low! Try again.")
-    else:
+    else: 
         print("Too high! Try again.")
 ```
 
