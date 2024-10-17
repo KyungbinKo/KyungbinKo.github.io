@@ -5,6 +5,7 @@ categories: 코딩
 tags: [python, blog, jekyll]
 redirect_from:
     - /coding/first-post   
+published: false
 ---
 [Git](https://github.com/KyungbinKo?tab=repositories){: .btn .btn--danger}
 
