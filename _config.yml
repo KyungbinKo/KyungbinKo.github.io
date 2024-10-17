@@ -318,7 +318,7 @@ defaults:
       toc_sticky: true
       toc_label: 목차
       toc_icon: "fas fa-robot"
-      author_profile: false
+      author_profile: true
       # sidebar:
       #     nav: "docs"
       sidebar: 
